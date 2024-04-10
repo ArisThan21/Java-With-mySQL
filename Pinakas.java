@@ -210,7 +210,7 @@ public class Pinakas extends javax.swing.JFrame {
     }
 
     private void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
+        
     }
 
 
